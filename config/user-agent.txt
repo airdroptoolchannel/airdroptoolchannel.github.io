@@ -1,3 +1,0 @@
-Mozilla/5.0 (iPhone OS 15_2) AppleWebKit/537.74 (KHTML, like Gecko) Firefox/115.0 Mobile Safari/537.74
-Mozilla/5.0 (iPhone OS 15_2) AppleWebKit/537.53 (KHTML, like Gecko) Edge/114.0.1823.67 Mobile Safari/537.53
-Mozilla/5.0 (Linux; Android 12; Huawei P40 Build/RP1A.200720.012) AppleWebKit/537.54 (KHTML, like Gecko) Firefox/113.0 Mobile Safari/537.54
