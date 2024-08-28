@@ -1,7 +1,0 @@
-Bước 1: Setup tool trên điện thoại hoặc máy tính theo hướng dẫn https://t.me/AirdropToolChannel/153
-
-Bước 2: Sử dụng lệnh chạy tool đính kèm trong bài viết hướng dẫn để chạy tool
-
-Bước 3: Nhập data vào các file txt trong thư mục "config" tương ứng với tool bạn muốn chạy. Chat vào nhóm telegram lệnh /import_data để xem các dạng data mà tool hỗ trợ
-
-Bước 4: Chạy tool lên và nhập theo hướng dẫn trên màn hình hiển thị
